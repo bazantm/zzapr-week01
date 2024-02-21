@@ -14,6 +14,8 @@ public class MyClass {
 
         System.out.println("This is a new line");
 
+        System.out.println("This is a new line 2");
+
 
     }
 }
